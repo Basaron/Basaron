@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a MSc graduate in Computer Engineering from Aa
 ## About Me
 
 - 🎓 **MSc in Computer Engineering** from Aarhus University
-- 💼 **Seeking opportunities** in software development and engineering roles
+- 💼 **Working** in Grundfos as Associate Software Development Engineer
 - 🌍 **Location**: Aarhus, Denmark
 - ✨ **Interests**: 
   - Artificial Intelligence (AI) and Machine Learning (ML)
